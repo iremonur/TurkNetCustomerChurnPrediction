@@ -1,6 +1,7 @@
 # TurkNetCustomerchurnPrediction
 
-This repository provides an implementation of varipus machine learning algorithms for the customer churn prediction. The algorithms implemented : 
+This repository provides an implementation of various machine learning algorithms for customer churn prediction. 
+The algorithms implemented :
 
 - Random Forest Classifier
 
